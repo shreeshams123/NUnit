@@ -1,0 +1,13 @@
+D:\Nunit Examples\NunitProject\bin\Debug\netcoreapp3.1\NunitProject.exe
+D:\Nunit Examples\NunitProject\bin\Debug\netcoreapp3.1\NunitProject.deps.json
+D:\Nunit Examples\NunitProject\bin\Debug\netcoreapp3.1\NunitProject.runtimeconfig.json
+D:\Nunit Examples\NunitProject\bin\Debug\netcoreapp3.1\NunitProject.runtimeconfig.dev.json
+D:\Nunit Examples\NunitProject\bin\Debug\netcoreapp3.1\NunitProject.dll
+D:\Nunit Examples\NunitProject\bin\Debug\netcoreapp3.1\NunitProject.pdb
+D:\Nunit Examples\NunitProject\obj\Debug\netcoreapp3.1\NunitProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nunit Examples\NunitProject\obj\Debug\netcoreapp3.1\NunitProject.AssemblyInfoInputs.cache
+D:\Nunit Examples\NunitProject\obj\Debug\netcoreapp3.1\NunitProject.AssemblyInfo.cs
+D:\Nunit Examples\NunitProject\obj\Debug\netcoreapp3.1\NunitProject.csproj.CoreCompileInputs.cache
+D:\Nunit Examples\NunitProject\obj\Debug\netcoreapp3.1\NunitProject.dll
+D:\Nunit Examples\NunitProject\obj\Debug\netcoreapp3.1\NunitProject.pdb
+D:\Nunit Examples\NunitProject\obj\Debug\netcoreapp3.1\NunitProject.genruntimeconfig.cache

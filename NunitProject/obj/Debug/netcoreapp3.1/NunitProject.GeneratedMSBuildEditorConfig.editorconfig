@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = NunitProject
+build_property.ProjectDir = D:\Nunit Examples\NunitProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
